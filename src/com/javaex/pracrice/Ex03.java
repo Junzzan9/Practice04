@@ -17,5 +17,5 @@ public class Ex03 {
 
 }
 
-//intB=intA 선언을 한후 intb값을 주었고 초기에 A값은 남아있으니 
+//intB=intA 선언을 한후 intB값을 주었고 초기에 A값은 남아있으니 
 // 답은: 20 6 10 일 것이다.
